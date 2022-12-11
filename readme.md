@@ -1,4 +1,16 @@
-File sharing app
+## File sharing app
 
-start : npm start
+#### install required dependencies:
+
+```
+   npm i
+```
+
+#### Run
+
+```
+  npm start
+```
+
+
 
